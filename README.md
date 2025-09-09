@@ -25,7 +25,7 @@ Usage
 
 The application being developed is a simple task manager for creating, editing, modifying, deleting and searching tasks
 
-![main_page](https://raw.githubusercontent.com/username/repo/main/media/home.PNG)
+![main_page](https://raw.githubusercontent.com/mehdiCoutri/Task-M/main/media/home.PNG)
 
 
 # All tasks
