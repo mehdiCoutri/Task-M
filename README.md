@@ -32,7 +32,7 @@ The application being developed is a simple task manager for creating, editing, 
 
 All tasks are shown here and they can be marked as completed or edited.
 
-![all_tasks](https://user-images.githubusercontent.com/12431839/48678535-ac68bd80-eb95-11e8-93f7-0226f54ba350.png)
+![all_tasks](https://raw.githubusercontent.com/mehdiCoutri/Task-M/main/media/allt.PNG)
 
 
 # Task in work
