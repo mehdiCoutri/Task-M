@@ -53,11 +53,11 @@ Completed tasks can be viewed in the "Completed Tasks" tab and they can be marke
 
 You can see the task execution statistics on the tab "Statistics complete"
 
-![statistics_complete](https://user-images.githubusercontent.com/12431839/48678476-f8673280-eb94-11e8-86ec-ac6e49c9942d.png)
+![statistics_complete](https://raw.githubusercontent.com/mehdiCoutri/Task-M/main/media/scomp.PNG)
 
 or see statistics by stages complete: All tasks, Task in work, Completed Tasks
 
-![statistics_by_stages_complete](https://user-images.githubusercontent.com/12431839/48678477-fbfab980-eb94-11e8-84a3-9d1fae4f7e58.png)
+![statistics_by_stages_complete](https://raw.githubusercontent.com/mehdiCoutri/Task-M/main/media/scomp2.PNG)
 
 
 # License
