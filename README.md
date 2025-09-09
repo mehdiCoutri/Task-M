@@ -25,7 +25,7 @@ Usage
 
 The application being developed is a simple task manager for creating, editing, modifying, deleting and searching tasks
 
-![main_page](https://user-images.githubusercontent.com/12431839/48678468-e1c0db80-eb94-11e8-8d5c-152169886028.png)
+![main_page](../../media/home.png)
 
 
 # All tasks
