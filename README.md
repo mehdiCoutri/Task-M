@@ -25,7 +25,7 @@ Usage
 
 The application being developed is a simple task manager for creating, editing, modifying, deleting and searching tasks
 
-![main_page](../../media/home.png)
+![main_page](../../tree/main/media/home.PNG)
 
 
 # All tasks
