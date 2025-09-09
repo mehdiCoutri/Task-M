@@ -39,14 +39,14 @@ All tasks are shown here and they can be marked as completed or edited.
 
 Task in work can be viewed in the "Task in work" tab and the can be marked as completed or updated
 
-![tasks_in_work](https://user-images.githubusercontent.com/12431839/48678586-53e5f000-eb96-11e8-94b2-376a0dcabaa5.png)
+![tasks_in_work](https://raw.githubusercontent.com/mehdiCoutri/Task-M/main/media/inwork.PNG)
 
 
 # Completed tasks
 
 Completed tasks can be viewed in the "Completed Tasks" tab and they can be marked as updated or deleted
 
-![completed_tasks](https://user-images.githubusercontent.com/12431839/48678475-f4d3ab80-eb94-11e8-9f7d-7e9475162c1a.png)
+![completed_tasks](https://raw.githubusercontent.com/mehdiCoutri/Task-M/main/media/complete.PNG)
 
 
 # Statistics complete
