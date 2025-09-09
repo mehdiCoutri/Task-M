@@ -1,4 +1,11 @@
+# مرحلة البناء
+FROM maven:3.8.5-openjdk-8 AS build
+WORKDIR /app
+COPY . .
+RUN mvn clean package -DskipTests
+
+# مرحلة التشغيل
 FROM openjdk:8-jdk-alpine
 VOLUME /tmp
-COPY target/task-manager-1.0-SNAPSHOT.jar app.jar
+COPY --from=build /app/target/task-manager-1.0-SNAPSHOT.jar app.jar
 ENTRYPOINT ["java","-jar","/app.jar"]
