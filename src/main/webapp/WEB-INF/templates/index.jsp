@@ -7,7 +7,7 @@
 <head>
     <title>TaskManager | Home</title>
     <meta charset="utf-8">
-
+<link href="https://fonts.googleapis.com/css2?family=Kode+Mono&display=swap" rel="stylesheet">
     <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
     <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
     <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
@@ -107,7 +107,9 @@
 <div class="containere">
     <div class="sidebar box left">
     <div class="brand">
-        <span class="fas fa-tasks"></span> TaskManager
+        <a href="/" style="font-family: 'Kode Mono', monospace; font-size: 22px; text-decoration: none; color: #fff;">
+  TaskManager
+</a>
     </div>
     <a href="createTask"><span class="fas fa-plus"></span> Add Task</a>
     <a href="tasks"><span class="far fa-list-alt"></span> All Tasks</a>
@@ -135,20 +137,7 @@
         <c:when test="${mode == 'MODE_HOME'}">
        
             <div class="row justify-content-center">
-                <div class="hero-unit col-md-3">
-                    <h1>Add Task </h1>
-                    <p>You can add new task.</p>
-                    <p>
-                        <a href="createTask" class="btn btn-primary btn-large">Add Task <span class="fas fa-plus"></span></a>
-                    </p>
-                 </div>
-                <div class="hero-unit col-md-1">
-                    <h1>Show Tasks </h1>
-                    <p>You see all tasks.</p>
-                    <p>
-                        <a href="tasks" class="btn btn-primary btn-large">Show Tasks <span class="far fa-list-alt"></span></a>
-                    </p>
-                </div>
+               
             </div>
         </c:when>
 
