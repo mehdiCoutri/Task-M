@@ -7,8 +7,12 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * This class start the spring boot application
  */
 @SpringBootApplication
-public class Application {
+public class MyApplication extends SpringBootServletInitializer {
+    @Override
+    protected SpringApplicationBuilder configure(SpringApplicationBuilder builder) {
+        return builder.sources(MyApplication.class);
+    }
     public static void main(String[] args) {
-        SpringApplication.run(Application.class, args);
+        SpringApplication.run(MyApplication.class, args);
     }
 }
